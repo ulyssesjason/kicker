@@ -3,6 +3,10 @@
 # C extensions
 *.so
 
+# Resource
+*.csv
+*.db
+
 # Packages
 *.egg
 *.egg-info
